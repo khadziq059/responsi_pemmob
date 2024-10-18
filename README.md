@@ -1,16 +1,71 @@
-# pariwisata
+# SS HASIL RESPONSI
 
-A new Flutter project.
+## 1. Halaman Login
+Pengguna dapat masuk ke dalam aplikasi dengan memasukkan email dan password.
 
-## Getting Started
+![Login](./log%20in.png)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 2. Halaman Registrasi
+Pengguna baru dapat membuat akun dengan mengisi form registrasi.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Registrasi](./registrasi.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 3. Daftar Pemandu
+Setelah login berhasil, pengguna akan diarahkan ke halaman daftar pemandu yang tersedia.
+
+![List Pemandu](./List_pemandu.png)
+
+---
+
+## 4. Detail Pemandu
+Pengguna dapat melihat informasi detail dari setiap pemandu, seperti nama, bahasa yang dikuasai, dan rating.
+
+![Detail Pemandu](./detailPemandu.png)
+
+---
+
+## 5. Tambah Pemandu
+Pengguna dapat menambahkan pemandu baru dengan mengisi form yang tersedia.
+
+![Tambah Pemandu](./tambahPemandu.png)
+
+---
+
+## 6. Ubah Pemandu
+Pengguna juga bisa mengubah informasi pemandu yang sudah ada.
+
+![Ubah Pemandu](./ubahPemandu.png)
+
+---
+
+## 7. Hapus Pemandu
+Jika diperlukan, pengguna dapat menghapus pemandu dari daftar.
+
+![Hapus Pemandu](./hapusPemandu.png)
+
+---
+
+## 8. Sukses Login
+Tampilan notifikasi ketika login berhasil dilakukan.
+
+![Sukses Login](./sukseslogin.png)
+
+---
+
+## 9. Gagal Login
+Tampilan notifikasi ketika login gagal dilakukan karena email atau password salah.
+
+![Gagal Login](./gagallogin.png)
+
+---
+
+## 10. Logout
+Pengguna dapat logout dari aplikasi melalui menu ini.
+
+![Logout](./logoutPemandu.png)
+
+---
